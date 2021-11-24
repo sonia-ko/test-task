@@ -1,0 +1,10 @@
+.container {
+    width: 15vw;
+    padding: 2vh 1vw;
+    background-color: rgba(255, 255, 255, 0.445);
+    margin-bottom: 3vh;
+}
+
+.active {
+    color: blue;
+}

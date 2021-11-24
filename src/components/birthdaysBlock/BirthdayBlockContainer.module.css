@@ -1,0 +1,14 @@
+.container {
+    width: 40%;
+    background-color: darkseagreen;
+    border-top: 1px solid grey;
+    padding: 2vh 2vw;
+    height: 85vh;
+    overflow-y: scroll;
+}
+
+.empty {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 5vh;
+}

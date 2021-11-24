@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(76, 134, 127);
+    height: 10vh;
+    color: white;
+    border-bottom: 1px solid black;
+}
